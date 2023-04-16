@@ -1,6 +1,6 @@
 ```C
 int main(void) {
-    printf("Goodbye, World."\n);
+    printf("Goodbye, World.\n");
     return 0;
 }
 ```
